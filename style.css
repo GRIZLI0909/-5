@@ -4,9 +4,40 @@ html{
 }
 
 body {
-   background-color: rgb(55, 180, 55);
-   color: rgb(0, 0, 0);
+   background-color: #9e9776;
+   color: #221810;
    font-family: "Oswald", sans-serif;
-
 }
 
+p {
+    padding: 0 3em;
+    font-size: 2rem;
+}
+
+header {
+    margin-bottom: 3em;
+    background-color: #4A4737;
+}
+
+.nav-link {
+    color: #FAF1CB;
+}
+
+.video {
+    display: block;
+    height: 70vh;
+    width: 70vw;
+    margin: 0 auto;
+    
+}
+
+.carousel {
+    display: block;
+    margin-bottom: 3em;
+}
+
+.carousel img {
+    height: 50vh;
+    display: block;
+    margin: 0 auto;
+}
